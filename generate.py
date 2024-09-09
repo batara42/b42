@@ -2,7 +2,7 @@ import os
 import json
 
 # Define the domain
-domain = "https://batara42.github.io/Library"
+domain = "https://b42o.vercel.app/Library"
 
 # Function to get extension for file type detection
 def get_file_extension(filename):
