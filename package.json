@@ -202,5 +202,8 @@
     "build:prod": "npm run build:eleventy:prod",
     "start": "npm run watch:eleventy",
     "build": "npm run build:eleventy"
+  },
+  "optionalDependencies": {
+    "fsevents": "*"
   }
 }
