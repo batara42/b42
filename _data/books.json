@@ -229,11 +229,6 @@
             "link": "https://github.com/batara42/b42/raw/main/Library/Sejarah,%20Politik,%20dan%20Ekologi/Marina%20Welker%20-%20Kretek%20Capitalism%20(2024).pdf?download="
         },
         {
-            "name": "José Porfirio Miranda - Marx and the Bible (1974).pdf",
-            "folder": "Sejarah, Politik, dan Ekologi",
-            "link": "https://github.com/batara42/b42/raw/main/Library/Sejarah,%20Politik,%20dan%20Ekologi/José%20Porfirio%20Miranda%20-%20Marx%20and%20the%20Bible%20(1974).pdf?download="
-        },
-        {
             "name": "Jason Hickel - The Divide (2018).epub",
             "folder": "Sejarah, Politik, dan Ekologi",
             "link": "https://github.com/batara42/b42/raw/main/Library/Sejarah,%20Politik,%20dan%20Ekologi/Jason%20Hickel%20-%20The%20Divide%20(2018).epub?download="
@@ -379,9 +374,14 @@
             "link": "https://github.com/batara42/b42/raw/main/Library/Sejarah,%20Politik,%20dan%20Ekologi/Mariana%20Mazzucato,%20Rosie%20Collington%20-%20The%20Big%20Con%20(2023).epub?download="
         },
         {
-            "name": "Olúfẹ́mi Táíwò - Legal Naturalism (1996) .pdf",
+            "name": "Olufemi Taiwo - Legal Naturalism (1996) .pdf",
             "folder": "Sejarah, Politik, dan Ekologi",
-            "link": "https://github.com/batara42/b42/raw/main/Library/Sejarah,%20Politik,%20dan%20Ekologi/Olúfẹ́mi%20Táíwò%20-%20Legal%20Naturalism%20(1996)%20.pdf?download="
+            "link": "https://github.com/batara42/b42/raw/main/Library/Sejarah,%20Politik,%20dan%20Ekologi/Olufemi%20Taiwo%20-%20Legal%20Naturalism%20(1996)%20.pdf?download="
+        },
+        {
+            "name": "Jose Porfirio Miranda - Marx and the Bible (1974).pdf",
+            "folder": "Sejarah, Politik, dan Ekologi",
+            "link": "https://github.com/batara42/b42/raw/main/Library/Sejarah,%20Politik,%20dan%20Ekologi/Jose%20Porfirio%20Miranda%20-%20Marx%20and%20the%20Bible%20(1974).pdf?download="
         },
         {
             "name": "Rhoma Dwi Aria Yuliantari, Muhidin M Dahlan - Lekra tak membakar buku (2008).pdf",
@@ -399,6 +399,11 @@
             "link": "https://github.com/batara42/b42/raw/main/Library/Sejarah,%20Politik,%20dan%20Ekologi/[ARTIKEL]%20Maxime%20Dafaure%20-%20The%20\"Great%20Meme%20War\"%20The%20Alt-Right%20and%20Its%20Multifarious%20Enemies%20(2020).pdf?download="
         },
         {
+            "name": "Olufemi Taiwo - Elite Capture (2022).epub",
+            "folder": "Sejarah, Politik, dan Ekologi",
+            "link": "https://github.com/batara42/b42/raw/main/Library/Sejarah,%20Politik,%20dan%20Ekologi/Olufemi%20Taiwo%20-%20Elite%20Capture%20(2022).epub?download="
+        },
+        {
             "name": "Bagoes Wiryomartono - Traditions and Transformations of Habitation in Indonesia (2020).pdf",
             "folder": "Sejarah, Politik, dan Ekologi",
             "link": "https://github.com/batara42/b42/raw/main/Library/Sejarah,%20Politik,%20dan%20Ekologi/Bagoes%20Wiryomartono%20-%20Traditions%20and%20Transformations%20of%20Habitation%20in%20Indonesia%20(2020).pdf?download="
@@ -407,11 +412,6 @@
             "name": "Stephanie E. Jones-Rogers - They Were Her Property (2019).epub",
             "folder": "Sejarah, Politik, dan Ekologi",
             "link": "https://github.com/batara42/b42/raw/main/Library/Sejarah,%20Politik,%20dan%20Ekologi/Stephanie%20E.%20Jones-Rogers%20-%20They%20Were%20Her%20Property%20(2019).epub?download="
-        },
-        {
-            "name": "Olúfẹ́mi O. Táíwò - Elite Capture (2022).epub",
-            "folder": "Sejarah, Politik, dan Ekologi",
-            "link": "https://github.com/batara42/b42/raw/main/Library/Sejarah,%20Politik,%20dan%20Ekologi/Olúfẹ́mi%20O.%20Táíwò%20-%20Elite%20Capture%20(2022).epub?download="
         }
     ],
     "Komik": [
@@ -433,9 +433,14 @@
             "link": "https://github.com/batara42/b42/raw/main/Library/Sastra%20dan%20Puisi/Shusako%20Endo%20-%20Deep%20River%20(1994).pdf?download="
         },
         {
-            "name": "Federico García Lorca - Selected Poems (2007).pdf",
+            "name": "Federico Garcia Lorca - Selected Poems (2007).pdf",
             "folder": "Sastra dan Puisi",
-            "link": "https://github.com/batara42/b42/raw/main/Library/Sastra%20dan%20Puisi/Federico%20García%20Lorca%20-%20Selected%20Poems%20(2007).pdf?download="
+            "link": "https://github.com/batara42/b42/raw/main/Library/Sastra%20dan%20Puisi/Federico%20Garcia%20Lorca%20-%20Selected%20Poems%20(2007).pdf?download="
+        },
+        {
+            "name": "Antoine de Saint-Exupery - The Little Prince-Pan Macmillan (2017).epub",
+            "folder": "Sastra dan Puisi",
+            "link": "https://github.com/batara42/b42/raw/main/Library/Sastra%20dan%20Puisi/Antoine%20de%20Saint-Exupery%20-%20The%20Little%20Prince-Pan%20Macmillan%20(2017).epub?download="
         },
         {
             "name": "Sitor Situmorang - Rindu kelana (1994).pdf",
@@ -461,11 +466,6 @@
             "name": "Subagio Sastrowardoyo - Dan kematian makin akrab (1995).pdf",
             "folder": "Sastra dan Puisi",
             "link": "https://github.com/batara42/b42/raw/main/Library/Sastra%20dan%20Puisi/Subagio%20Sastrowardoyo%20-%20Dan%20kematian%20makin%20akrab%20(1995).pdf?download="
-        },
-        {
-            "name": "Antoine de Saint-Exupéry - The Little Prince-Pan Macmillan (2017).epub",
-            "folder": "Sastra dan Puisi",
-            "link": "https://github.com/batara42/b42/raw/main/Library/Sastra%20dan%20Puisi/Antoine%20de%20Saint-Exupéry%20-%20The%20Little%20Prince-Pan%20Macmillan%20(2017).epub?download="
         },
         {
             "name": "Rene de Costa - The Poetry of Pablo Neruda (1982).pdf",
