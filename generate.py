@@ -2,7 +2,7 @@ import os
 import json
 
 # Define the domain
-domain = "https://b42o.vercel.app/Library"
+domain = "https://github.com/batara42/b42/raw/main/Library"
 
 # Function to get extension for file type detection
 def get_file_extension(filename):
@@ -10,7 +10,7 @@ def get_file_extension(filename):
 
 # Function to build the file link
 def generate_link(path):
-    return f"{domain}/{path.replace(' ', '%20')}"
+    return f"{domain}/{path.replace(' ', '%20')}?download="
 
 # Function to process the tree command output and generate data
 def process_tree(directory):
