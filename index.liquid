@@ -1,0 +1,50 @@
+---
+layout: base
+---
+<table class="header">
+  <tr>
+    <td colspan="2" rowspan="2" class="width-auto" align="center" style="text-align:center;">
+      <h1 class="title">ᯇᯮᯘ᯲ᯖᯂ ᯉ ᯅᯖᯒ</h1>
+      <span class="subtitle">Pustaha na Batara<br> (Perpustakaan Batara / Batara's Library)</span>
+      <th>Jumlah Buku</th>
+      <td class="width-auto">
+        {% assign totalBooks = 0 %}
+        {% for category in books %}
+          {% assign categoryBooks = category[1] | size %}
+          {% assign totalBooks = totalBooks | plus: categoryBooks %}
+        {% endfor %}
+        {{ totalBooks }}
+      </td>
+  </tr>
+
+  <tr>
+    <th>Pemutakhiran Terakhir</th>
+    <td class="width-auto"><time style="white-space: pre;">2024-09-09</time></td>
+  </tr>
+</table>
+{% for category in books %}
+  {% assign category_name = category[0] %}
+  {% assign category_books = category[1] %}
+  
+  <h2 id="{{ category_name }}">{{ category_name }}</h2>
+  <table>
+    <thead>
+      <tr>
+        <th class="width-auto">Nama</th>
+        <th class="width-min">Kategori</th>
+        <th class="width-min">Tautan</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for book in category_books %}
+        <tr>
+          <td>{{ book.name }}</td>
+          <td>{{ category_name }}</td>
+          <td><a href="{{ book.link }}" target="_blank">Unduh</a></td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endfor %}
+
+</table>
