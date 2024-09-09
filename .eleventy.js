@@ -2,7 +2,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("*.css");
   eleventyConfig.addPassthroughCopy("*.js");
   eleventyConfig.addPassthroughCopy("*.jpg");
-  eleventyConfig.addPassthroughCopy("Library");
 
   return {
     dir: {
