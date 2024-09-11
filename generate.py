@@ -42,7 +42,7 @@ current_dir = "./_data"
 library_data = process_tree(library_dir)
 
 # Write the data to a JSON file
-output_file = os.path.join(current_dir, "books.json")
+output_file = os.path.join(current_dir, "raw_books.json")
 with open(output_file, 'w', encoding='utf-8') as json_file:
     json.dump(library_data, json_file, ensure_ascii=False, indent=4)
 
